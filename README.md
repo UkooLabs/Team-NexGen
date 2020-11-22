@@ -4,6 +4,8 @@ Welcome to Team-NexGens site, we are back and working on a new project!
 
 We are calling it NexGen V3, It is a from the ground up re-write of NexGen and will work cross platform. It is currently being developed for the following systems.
 
+NexGen is both a new dashboard and an engine, desinged to be lightweight while offering flexible features
+
 1) Windows XP up to 10
 2) Xbox Original
 3) Xbox 360
@@ -11,4 +13,4 @@ We are calling it NexGen V3, It is a from the ground up re-write of NexGen and w
 
 More Info coming soon.
 
-EqUiNox
+EqUiNox, RetroMura
