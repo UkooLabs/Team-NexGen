@@ -16,4 +16,4 @@ Additional Info coming soon.
 
 EqUiNox, RetroMura , HoRnEyDvL
 
-[NexGen Documentation](NexGen\Index.md)
+[NexGen Documentation](NexGen/Index.md)
