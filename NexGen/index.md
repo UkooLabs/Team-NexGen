@@ -1,3 +1,3 @@
 # NexGen Documenation
 
-[Input Devices](NexGen/InputDevices.md)
+[Input Devices](InputDevices.md)
